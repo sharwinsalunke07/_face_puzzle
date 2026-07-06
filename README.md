@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Puzzle
 
 A webcam-based desktop app that captures your face, slices it into a 3x3 jigsaw puzzle, and lets you solve it hands-free using hand gestures.
@@ -55,3 +56,6 @@ To push this project to a GitHub repository:
 4. Create a repository on GitHub.
 5. Add the remote: `git remote add origin <your-repo-url>`
 6. Push: `git push -u origin main`
+=======
+# _face_puzzle
+>>>>>>> 9897e30dfcef26661fb368c63ac8c882eb01020d
